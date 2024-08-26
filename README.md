@@ -53,7 +53,6 @@ import "github.com/gofr-dev/gofr"
 
 Alternatively, use `go get`:
 
-
 ```sh
 go get -u github.com/gofr-dev/gofr
 ```
